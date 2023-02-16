@@ -1,0 +1,26 @@
+!Resolution(i,i)
+!BPP(i)
+!TexBPP(i)
+!TextureQuality(s)  // VeryLow, Low, Normal, High
+!Filtering(s)       // Bilinear, Trilinear, Anisotropic, AnisotropicTrilinear
+!Gamma(i)
+!MaxRefresh(i)      // max refresh frequency in Hz
+!Shadows(s)         // None, Blobs, ShadowMaps
+!Lightmaps()
+!Fullscreen()
+!MaterialQuality(i) // bigger is better
+!FXQuality(i)       // bigger is better
+!Menu3dBackground(i) // 1 to show 3d menu back, 0 menu with plain background
+
+Resolution(3840,2160)
+BPP(24)
+TexBPP(32)
+TextureQuality("Normal")
+Filtering("Trilinear")
+Fullscreen()
+Shadows("ShadowMaps")
+Gamma(5)
+MaxRefresh(60)
+MaterialQuality(5)
+FXQuality(1)
+Menu3dBackground(0)

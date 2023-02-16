@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"FOV_1"</Description>
+      <LastState Value="1" RealAddress="1029ED46"/>
+      <VariableType>Float</VariableType>
+      <Address>ChromeEngine2.dll+0029ED46</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>112</Key>
+          </Keys>
+          <Value>0.1</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>113</Key>
+          </Keys>
+          <Value>0.1</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"FOV_2"</Description>
+      <LastState Value="1" RealAddress="1029ED4A"/>
+      <VariableType>Float</VariableType>
+      <Address>ChromeEngine2.dll+0029ED4A</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>114</Key>
+          </Keys>
+          <Value>0.1</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>115</Key>
+          </Keys>
+          <Value>0.1</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

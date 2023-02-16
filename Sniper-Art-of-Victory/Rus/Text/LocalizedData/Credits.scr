@@ -1,0 +1,524 @@
+//naglowek i id miejsca na naglowek
+!CreditEntry(s, s)
+!DefaultTitleFont(s, f, s)
+!DefaultNameFont(s, f, s)
+!DefaultLifeTime(f)
+!DefaultLineSpacing(f)
+!LineSpacing(f)
+!LifeTime(f)
+!Font(s,f,s)
+!Name(s)
+
+DefaultLifeTime(4.0)
+DefaultLineSpacing(-2)
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("City Interactive:", "_LEFT")
+{
+    Name("")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("CEO", "_LEFT")
+{
+    Name("Marek Tyminski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Director of Development", "_LEFT")
+{
+    Name("Michal Sokolski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Project Manager", "_LEFT")
+{
+    Name("Piotr Pawlowski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Game Designer", "_LEFT")
+{
+    Name("Michal Sadowski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Art Director", "_LEFT")
+{
+    Name("Damian Zielinski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Technical Director", "_LEFT")
+{
+    Name("Pawel Mrochen")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Knowledge Manager", "_LEFT")
+{
+    Name("Zbigniew Ledwon")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Shared Services Manager", "_LEFT")
+{
+    Name("Karol Cieslukowski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Asset Manager", "_LEFT")
+{
+    Name("Wiktor Witkowski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Producer", "_LEFT")
+{
+    Name("Michal Sroczynski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Level Designer", "_LEFT")
+{
+    Name("Marcin Bawolski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Level Designers", "_LEFT")
+{
+    Name("Michal 'M@jkel' Mazur")
+    Name("Mikolaj Pawlowski")
+    Name("Marian Jarmoszko")
+    Name("Marcin Micinski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Content Artists", "_LEFT")
+{
+    Name("Maciek 'lolo' Matusik")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Content Artists", "_LEFT")
+{
+    Name("Piotr 'PiniO' Cieciora")
+    Name("Mieszko 'MieszAs' Czarnecki")
+    Name("Jaroslaw 'Koshu' Koszewski")
+    Name("Jaroslaw Krawczyk")
+    Name("Sebastian 'S.M.-art.' Milosek")
+    Name("Zbigniew 'Siatek' Siatecki")
+    Name("Jerzy Rogalski")    
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Environment Artists", "_LEFT")
+{
+    Name("Dominik Gajewski")
+    Name("Marcin Kalemba")
+    Name("Krystian 'KryHoo' Pawlik")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Tech & FX Artist", "_LEFT")
+{
+    Name("Dominik 'domel' Misiurski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Tech & FX Artists", "_LEFT")
+{
+    Name("Robert Samoraj")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Animator & Character Artist", "_LEFT")
+{
+    Name("Lukasz Sopata")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Character Artists", "_LEFT")
+{
+    Name("Krzysztof 'Rork' Deoniziak")
+    Name("Daniel 'Gerudir' Komuda")
+    Name("Pawel 'seg' Sekal")
+    Name("Grzegorz Surdykowski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Programmer", "_LEFT")
+{
+    Name("Marian Jarmoszko")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Programmers", "_LEFT")
+{
+    Name("Tomasz Tkaczuk")
+    Name("Mieszko Zielinski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Lead Sound Designer", "_LEFT")
+{
+    Name("Pawel 'grafu' Daudzward")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Sound Designer", "_LEFT")
+{    
+    Name("Przemyslaw Moszczynski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Cinematics Editor", "_LEFT")
+{
+    Name("Krzysztof 'krisq' Zdanowicz")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Storyline", "_LEFT")
+{
+    Name("Michal Sadowski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Localization Manager", "_LEFT")
+{
+    Name("Marzena Wierzbicka")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Localization Programmer", "_LEFT")
+{
+    Name("Grzegorz Konczyk")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Localization Kit", "_LEFT")
+{
+    Name("Marcin Micinski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Localization", "_LEFT")
+{
+    Name("Effective Media")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("VO recording", "_LEFT")
+{
+    Name("Effective Media")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Music", "_LEFT")
+{  
+    Name("John Doryk")  
+    Name("Stephen Bashaw") 
+    Name("Antonio Genovino")  
+    Name("Dave Goetz")   
+    Name("Bjorn Lynne")  
+    Name("Rik Pfenninger")  
+    Name("Matias Puumala") 
+    Name("Patrick Smith")  
+    Name("Igor Stefan U")  
+    Name("Colin Willsher")  
+    Name("Aria Music Designs")      
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Financial Director", "_LEFT")
+{
+    Name("Krzysztof Bujak")
+    Name("Bozena Kielczewska")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("HR Manager", "_LEFT")
+{
+    Name("Katarzyna Szymanczak")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("HR Section", "_LEFT")
+{
+    Name("Monika Dankowiakowska")
+    Name("Katarzyna Pienkowska")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Marketing Manager", "_LEFT")
+{
+    Name("Anna Anisimowicz")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Marketing Copywriter", "_LEFT")
+{
+    Name("Marcin Kruszynski")
+    {
+        LineSpacing(2)
+    }    
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Cover Artwork", "_LEFT")
+{
+    Name("Michal Kaleniecki")
+    Name("Grzegorz Pedzinski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Desktop Publishing", "_LEFT")
+{
+    Name("Szymon Sobanski")
+    {
+        LineSpacing(2)
+    }    
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("International Business Manager", "_LEFT")
+{
+    Name("Marcin Kwasnica")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Distribution Support", "_LEFT")
+{
+    Name("Paulina Kwiecinska")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Junior Business Manager", "_LEFT")
+{
+    Name("Joanna Blazinska")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Product Director", "_LEFT")
+{
+    Name("Adam Szymczak")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("QA Manager", "_LEFT")
+{
+    Name("Lukasz Misiurski")
+    {
+        LineSpacing(2)
+    }
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Testers", "_LEFT")
+{
+    Name("Daniel Koszewski") 
+    Name("Lukasz Misiurski") 
+    Name("Mikolaj Pawlowski") 
+    Name("Rafal Frej")
+    Name("Dominik Izdebski")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Special Thanks to", "_LEFT")
+{
+    Name("Techland")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Новый Диск:", "_LEFT")
+{
+    Name("")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Руководитель отдела локализаций", "_LEFT")
+{
+    Name("Марина Гончарова")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Менеджер проекта", "_LEFT")
+{
+    Name("Алексей Середин")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Руководитель отдела тестирования", "_LEFT")
+{
+    Name("Леонид Салаватов")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Технический специалист", "_LEFT")
+{
+    Name("Александр Ямников")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Технический директор", "_LEFT")
+{
+    Name("Виталий Кнышевич")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Руководитель отдела PR и маркетинга", "_LEFT")
+{
+    Name("Анна Федорова")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Художники", "_LEFT")
+{
+    Name("Юлан Ся-Ю-Шан")
+    Name("Татьяна Лаптева")
+    Name("Антон Гагин")
+}
+
+DefaultTitleFont("Konstrukcyjny32", 0.5, "Center")
+DefaultNameFont("Verdana22", 1, "Center")
+CreditEntry("Редактор", "_LEFT")
+{
+    Name("Татьяна Бессонова")
+}
+
+
+
+
+
